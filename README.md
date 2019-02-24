@@ -2,7 +2,7 @@ In order to provide more abundant data sets of short video industry, this paper 
 
 Due to force majeure, maintenance of this project is suspended. Please refer to other similar projects:
 请参考以下项目：
-+ [https://github.com/AppSign/douyin](https://github.com/AppSign/douyin)
+
 + [https://github.com/JokeAI/Sign-DouYin](https://github.com/JokeAI/Sign-DouYin)
 + [https://github.com/Sign/douyin](https://github.com/Sign/douyin)
-
++ [https://github.com/AppSign/douyin](https://github.com/AppSign/douyin)
