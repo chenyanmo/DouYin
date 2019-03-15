@@ -6,5 +6,6 @@ Please refer to other similar projects:
 请参考以下项目：
 
 + [https://github.com/JokeAI/Sign-DouYin](https://github.com/JokeAI/Sign-DouYin)
++ [https://github.com/vsdouyin/douyin-service](https://github.com/vsdouyin/douyin-service)
 + [https://github.com/Sign/douyin](https://github.com/Sign/douyin)
 + [https://github.com/AppSign/douyin](https://github.com/AppSign/douyin)
